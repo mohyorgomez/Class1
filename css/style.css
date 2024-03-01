@@ -1,0 +1,76 @@
+.header1{
+   
+height: 100px;
+}
+
+.logo{
+    padding-top: 50px;
+    /* padding: 30px; */
+    color: purple;
+    font-size: 20px;
+    padding-left: 100px;
+}
+
+
+ #hyp a{
+    color: black;
+    transform: none;
+    padding: 15px;
+ }
+
+ #hyp {
+  padding-top: 50px;
+
+ }
+
+ .banner{
+    background-image: url('../images/welcome-banner.jpg');
+    height: 600px;
+    background-size: cover;
+   text-align: center;
+   padding-top: 150px;
+   color: white;
+   font-size: 60px;
+   text-transform: uppercase;
+   font-weight: bold;
+    
+
+ }
+ .about{
+   text-align: center;
+   font-weight: bold;
+   font-size: 30px;
+   
+   padding-top: 30px;
+ }
+ .middle{
+   padding-top: 70px;
+   height: 500px;
+ }
+ .prof{
+   text-align: justify;
+     font-size: 20px;  
+   /* font-weight: bold; */
+    padding-left: 70px;
+    
+   
+ }
+  .pic{
+   width: 600px;
+   height: 400px;
+   padding-left: 100px;
+ } 
+ .des{
+   padding-top: 50px; 
+ }
+ .educ{
+   text-align: center;
+   padding-top: 120px;
+   font-weight: bold;
+   font-size: 30px;
+   
+
+ }
+ .dom{
+   padding-top: 30px;
+ }
